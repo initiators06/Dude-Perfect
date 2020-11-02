@@ -21,7 +21,7 @@ limitations under the License.
 Dude Perfect is a bot that can do most of the things that everything you require for making a better and better Discord Server.</i></strong>
   <hr>
  
- #Official Repository - [**Click Here**](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
+ # Official Repository - [**Click Here**](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
 <!-- Bot stats
 
 [![Status](https://top.gg/api/widget/status/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501) [![Servers](https://top.gg/api/widget/servers/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501) [![Upvotes](https://top.gg/api/widget/upvotes/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501) [![Library](https://top.gg/api/widget/lib/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501) [![Owner](https://top.gg/api/widget/owner/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501)
