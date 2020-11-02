@@ -13,14 +13,15 @@ distributed under the License is distributed on an "AS IS" BASIS,
 limitations under the License.
 -->
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/748774519707009055/770662369109213244/PicsArt_10-27-08.26.56.png" align="center">
+    <a href ="https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect"><img src="https://cdn.discordapp.com/attachments/748774519707009055/770662369109213244/PicsArt_10-27-08.26.56.png" align="center">
   <br>
   <br>
     <strong> <i>Dude Perfect is made with ❤️
 
 Dude Perfect is a bot that can do most of the things that everything you require for making a better and better Discord Server.</i></strong>
   <hr>
-
+ 
+ #Official Repository - [**Click Here**](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
 <!-- Bot stats
 
 [![Status](https://top.gg/api/widget/status/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501) [![Servers](https://top.gg/api/widget/servers/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501) [![Upvotes](https://top.gg/api/widget/upvotes/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501) [![Library](https://top.gg/api/widget/lib/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501) [![Owner](https://top.gg/api/widget/owner/486232921078890501.svg?noavatar=true)](https://top.gg/bot/486232921078890501)
