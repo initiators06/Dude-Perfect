@@ -18,9 +18,7 @@ limitations under the License.
   <br>
     <strong> <i>Dude Perfect is made with ❤️
 
-Dude Perfect is a bot that can do most of the things that everything you require for making a better and better Discord Server.</i></strong>
-  <hr>
- 
+Dude Perfect is a bot that can do most of the things that everything you require for making a better and better Discord Server.</i></strong>  
  # Official Repository - [**Click Here**](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect)
 <!-- Bot stats
 
